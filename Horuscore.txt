@@ -1,0 +1,20 @@
+Challenge
+You need to create a simple Web Application with following business requirements. You must use
+SOLID principal to create this assignment:
+- Project Name: HorusCore
+- Technologies : C#, ASP.Net/NodeJs
+- Bootstrap
+- CSS
+Requirements:
+- Create a simple web application and show table data of HorusCore Inventory. The following
+sample data can be used to show products on the web page. The Page name is Inventory.
+Inventory Id Name Description
+1001 COG convenience goods
+2001 SHG shopping goods
+2008 SPG specialty goods
+3001 UNG unsought goods
+- Create InventoryController to fetch data from InventoryService.
+- Inventory Service is a separate class which gets above sample data.
+- You must use at least one Design Pattern or SOLID principal
+Note : You may or may not use database, you can use mock data to present to the web
+application.
